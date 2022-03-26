@@ -7,7 +7,7 @@ discord-web-api is a simple Api for obtaining information about a user or a unio
 
 # how to install
 
-1. Clone this repository with ``.
+1. Clone this repository with `git clone https://github.com/rushscriptz/discord-api.git`.
 2. run im the cmd `npm i`.
 3. add file name `.env` and add this in him without "".
 `TOKEN="YOUR TOKEN HERE"`
